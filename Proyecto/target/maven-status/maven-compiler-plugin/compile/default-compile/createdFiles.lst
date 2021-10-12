@@ -1,0 +1,10 @@
+com\example\Proyecto\Service\HerramientaService.class
+com\example\Proyecto\ServletInitializer.class
+com\example\Proyecto\Service\PersonaService.class
+com\example\Proyecto\ProyectoApplication.class
+com\example\Proyecto\rest\HerramientaREST.class
+com\example\Proyecto\model\Persona.class
+com\example\Proyecto\rest\PersonaREST.class
+com\example\Proyecto\repository\HerramientaRepository.class
+com\example\Proyecto\model\Herramienta.class
+com\example\Proyecto\repository\PersonaRepository.class
